@@ -1,0 +1,88 @@
+.container{
+    background-color: blue;
+    width: 600px;
+    height: 300px;
+    align-content: space-around;
+    font-size: 40px;
+    color:white;
+    font-style: normal;
+    border-radius: 20px;
+    position: absolute;
+    
+
+}
+.textm{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top:60px;
+    margin-bottom: 0px;
+}
+.textmic{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    margin-left: 46px;
+    border-radius: 6px;
+    width: 86px;
+    height: 32px;
+    border-color: white;
+    border-width: 3px;
+    color: white;
+    font-size: 16px;
+}
+button:hover{
+    border-color:gray;
+}
+.bronze{
+    background-color: #833c1f;
+}
+.silver{
+    background-color: rgb(107, 107, 107);
+}
+.gold{
+    background-color: gold;
+}
+.diamond{
+    background-color: aqua;
+}
+.container1{
+    background-color: red;
+    width: 600px;
+    height: 300px;
+    align-content: space-around;
+    font-size: 40px;
+    color:white;
+    font-style: normal;
+    border-radius: 20px;
+    position: absolute;
+    left:616px;
+    top: 8px;
+}
+.container2{
+    background-color: green;
+    width: 600px;
+    height: 300px;
+    align-content: space-around;
+    font-size: 40px;
+    color:white;
+    font-style: normal;
+    border-radius: 20px;
+    position: absolute;
+    top: 316px;
+}
+.container3{
+    background-color: purple;
+    width: 600px;
+    height: 300px;
+    align-content: space-around;
+    font-size: 40px;
+    color:white;
+    font-style: normal;
+    border-radius: 20px;
+    position: absolute;
+    top: 316px;
+    left: 616px;
+}
